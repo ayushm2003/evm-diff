@@ -11,3 +11,4 @@ export type {
   ProxiedDeployedContract,
 } from './deployedContract';
 export { DeployedContractKind } from './deployedContract';
+export type { Gas }	from './gas';
